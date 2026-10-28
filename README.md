@@ -1,6 +1,6 @@
 # Hi, I'm Dhineshkumar S. 👋
 
-### Java Developer | SQL & MySQL | Software Development
+### Software Development
 
 I'm a software developer with an M.Sc. in Information Technology, interested in building reliable applications, solving programming problems, and designing efficient database solutions.
 
